@@ -2353,7 +2353,7 @@ color: #000000;
 
 
 
-  @media only screen and (max-width: 413px){
+  @media only screen and (max-width: 416px){
       .big_logo{
           height: 30vh;
           margin-left: 10%;
@@ -2367,6 +2367,7 @@ color: #000000;
       .description{
           font-size: 0.8rem;
           margin-left: 17%;
+          
           margin-right: 30%;
       }
       .btn1{
@@ -2381,63 +2382,73 @@ color: #000000;
           /* display: none; */
       }
       .chef{
-          margin-top: -30%;
-          margin-left: 5%;
+          margin-top: -65%;
+          margin-left: 25vw;
           /* display: none; */
-          font-size: 0.9rem;
+          font-size: 1rem;
       }
       .chef_count{
-          margin-top: 8%;
-          margin-left: -21%;
-          font-size: 2.4rem;
+          margin-top: -11vh;
+          margin-left: -14vw;
+          font-size: 2.8rem;
           /* display: none; */
       }
       .vertical__dash{
-          margin-top: -30%;
+          margin-top: -60%;
           /* display: none; */
+          height: 9vh;
           margin-left: 1vw;
       }
       .dash{
           display: none;
       }
       .image_about{
-          margin-top: 22%;
-          margin-left: 19%;
-          height: 23vh;
+          margin-top: 1%;
+          margin-left: 17%;
+          height: 25vh;
+          width: 32vw;
+          padding: 0px !important;
           /* display: none; */
       }
       .customer_count{
-          margin-top: 8%;
-          font-size: 2.4rem;
-          margin-left: -90%;
+          margin-top: 16%;
+          font-size: 2.8rem;
+          margin-left: -140%;
           /* display: none; */
 
       }
       .customer{
-          margin-top: -30%;
+          margin-top: -22%;
           font-size: 0.9rem;
-          margin-left: -120%;
+          margin-left: -155%;
           /* display: none; */
       }
       .vertical__dash2{
-          margin-top: -30%;
-          left:55vw;
+          margin-top: -20%;
+          left:5vw;
+          height: 9vh;
           /* display: none; */
       }
       .heading_about{
-          margin-top: 130%;
-          display: none;
+          margin-top: 2%;
+          /* display: none; */
+          font-size: 1.3rem;
       }
       .about_description{
           font-size: 0.9rem;
           /* margin-left: 20%; */
           /* line-height: 5px; */
-          width: 22vw;
+          width: 30vw;
+          margin-left: auto;
+          margin-right: auto;
+          display: block
           /* display:none; */
       }
       .service{
-          margin-left: 90%;
-          display: none;
+          margin-left: 5%;
+          font-size: 1.5rem;
+          margin-top: 30vh;
+          /* display: none; */
       }
 
   }
